@@ -1,5 +1,5 @@
 < h1 > UC12 - Desenvolvimento para Internet </ h1 >
-> UC12: Executar os processos de codifiação, manutenção de pedidos computacionais para internet 26/06/2022
+> Executar os processos de codifiação, manutenção de pedidos computacionais para internet 26/06/2022
 iternet 26/05/2022 03/08/2022.
 
 1. Configura o **ambiente de desenvolvimento** conforme as funcionalidades e características do aplicativo computacional para internet a ser codificado;
